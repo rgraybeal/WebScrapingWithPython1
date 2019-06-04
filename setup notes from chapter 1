@@ -1,0 +1,17 @@
+Dowloaded and installed Github desktop
+
+cloned REMitchell/python-scraping repository from Github
+https://github.com/REMitchell/python-scraping
+
+pip installed virtualenv and upgraded pip following prompts
+
+set up a virtualenv called scrapeEnv
+
+$ virtualenv scrapingEnv
+$ cd scrapingEnv/
+$ source bin/activate
+
+in windows (http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/)
+
+use mkvirtualenv NameOfEnv
+interupted by jillian who wants to play minecraft... hh
